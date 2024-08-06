@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>amanihas</title>
+    <title>Homepage on amanihas</title>
     <link>http://amanihas.github.io/</link>
-    <description>Recent content on amanihas</description>
+    <description>Recent content in Homepage on amanihas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 15:31:52 -0400</lastBuildDate><atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 13:33:38 -0400</lastBuildDate><atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>File</title>
+      <title>Hello</title>
       <link>http://amanihas.github.io/posts/file/</link>
       <pubDate>Sun, 04 Aug 2024 15:31:52 -0400</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Mypost</title>
+      <title>HIIII</title>
       <link>http://amanihas.github.io/posts/mypost/</link>
       <pubDate>Sat, 03 Aug 2024 20:12:42 -0400</pubDate>
       
