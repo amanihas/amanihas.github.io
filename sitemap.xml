@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://amanihas.github.io/posts/</loc>
-    <lastmod>2024-08-05T21:09:32-04:00</lastmod>
-  </url><url>
     <loc>http://amanihas.github.io/</loc>
     <lastmod>2024-08-05T13:33:38-04:00</lastmod>
   </url><url>
-    <loc>http://amanihas.github.io/posts/file/</loc>
+    <loc>http://amanihas.github.io/posts/amplifyher/</loc>
+    <lastmod>2024-08-04T15:31:52-04:00</lastmod>
+  </url><url>
+    <loc>http://amanihas.github.io/posts/</loc>
     <lastmod>2024-08-04T15:31:52-04:00</lastmod>
   </url><url>
     <loc>http://amanihas.github.io/posts/mypost/</loc>

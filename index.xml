@@ -8,12 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Aug 2024 13:33:38 -0400</lastBuildDate><atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
-      <link>http://amanihas.github.io/posts/file/</link>
+      <title>AmplifyHER</title>
+      <link>http://amanihas.github.io/posts/amplifyher/</link>
       <pubDate>Sun, 04 Aug 2024 15:31:52 -0400</pubDate>
       
-      <guid>http://amanihas.github.io/posts/file/</guid>
-      <description>Hi! My name is Amani 1. 2.</description>
+      <guid>http://amanihas.github.io/posts/amplifyher/</guid>
+      <description>I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.
+Our website prompts the user to pick an option from a list of preselected genres to give them a new playlist. It filters through a gender database that provides us with information about artists gender identity and made it so that only female, non-binary, and GNC individuals would be added to the generated playlists.
+We utilized a combination of JavaScript, HTML/CSS, and Python in order to create our website.</description>
     </item>
     
     <item>
