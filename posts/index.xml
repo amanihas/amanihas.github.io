@@ -16,7 +16,8 @@
 		<pubDate>Sun, 04 Aug 2024 15:31:52 -0400</pubDate>
 		
 		<guid>http://amanihas.github.io/posts/amplifyher/</guid>
-		<description>&lt;p&gt;I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.&lt;/p&gt;
+		<description>&lt;p&gt;&lt;img src=&#34;http://amanihas.github.io/AmplifyHER-pic.JPG&#34; alt=&#34;AmplifyHER Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.&lt;/p&gt;
 &lt;p&gt;Our website prompts the user to pick an option from a list of preselected genres to give them a new playlist. It filters through a gender database that provides us with information about artists gender identity and made it so that only female, non-binary, and GNC individuals would be added to the generated playlists.&lt;/p&gt;
 &lt;p&gt;We utilized a combination of JavaScript, HTML/CSS, and Python in order to create our website. First we used JavaScript and HTML/CSS in order to create the foundation of our website and create a uniformed theme throughout our project. We then utilized python and Spotify&amp;rsquo;s developer API along with Chartmetric&amp;rsquo;s Pronoun and Gender dataset in order generate a playlist that comprised of songs by female, non-binary, and GNC individuals.&lt;/p&gt;
 </description>
