@@ -27,7 +27,12 @@ background-color: #000 !important;
 
 /*posts image*/
 img {
-width: 25%;
+width: 100%;
+}
+
+.about-img {
+    width: 25%;
+    margin-bottom: 30px;
 }
 
 /*avatar/profile image*/
