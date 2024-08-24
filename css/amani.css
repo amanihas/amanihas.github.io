@@ -30,6 +30,11 @@ img {
 width: 100%;
 }
 
+.FBaWG-img {
+    width: 50%;
+    margin-bottom: 30px;
+}
+
 .about-img {
     width: 25%;
     margin-bottom: 30px;
