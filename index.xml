@@ -6,7 +6,16 @@
     <description>Recent content on amanihas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 15:31:52 -0400</lastBuildDate><atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 15:31:52 -0400</lastBuildDate><atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knights&#39; Wildlife Tracker</title>
+      <link>http://amanihas.github.io/posts/knightswildlifetracker/</link>
+      <pubDate>Sun, 13 Oct 2024 15:31:52 -0400</pubDate>
+      
+      <guid>http://amanihas.github.io/posts/knightswildlifetracker/</guid>
+      <description>In October, I participated in UCF&amp;rsquo;s Knight Hacks VII.</description>
+    </item>
+    
     <item>
       <title>AmplifyHER</title>
       <link>http://amanihas.github.io/posts/amplifyher/</link>
@@ -21,7 +30,7 @@ We utilized a combination of JavaScript, HTML/CSS, and Python in order to create
     <item>
       <title>Fire Boy and Water Girl</title>
       <link>http://amanihas.github.io/posts/fireboyandwatergirl/</link>
-      <pubDate>Sun, 04 Aug 2024 15:31:52 -0400</pubDate>
+      <pubDate>Wed, 08 May 2024 15:31:52 -0400</pubDate>
       
       <guid>http://amanihas.github.io/posts/fireboyandwatergirl/</guid>
       <description>In the club I&amp;rsquo;m a part of, Girls Who Code, I worked together with a team of girls in order to create our own virsion of the popular game, Water Boy and Fire Girl.
