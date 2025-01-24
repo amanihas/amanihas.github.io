@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>amanihas</title>
-    <link>http://localhost:1313/</link>
+    <link>http://amanihas.github.io/</link>
     <description>Recent content on amanihas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 15:31:52 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knights&#39; Wildlife Tracker</title>
-      <link>http://localhost:1313/posts/knightswildlifetracker/</link>
+      <link>http://amanihas.github.io/posts/knightswildlifetracker/</link>
       <pubDate>Sun, 13 Oct 2024 15:31:52 -0400</pubDate>
-      <guid>http://localhost:1313/posts/knightswildlifetracker/</guid>
+      <guid>http://amanihas.github.io/posts/knightswildlifetracker/</guid>
       <description>&lt;p&gt;In October, I participated in UCF&amp;rsquo;s Knight Hacks VII. I worked with a partner to create a website, &lt;em&gt;Knights&amp;rsquo; Wildlife Tracker&lt;/em&gt;, that allows users to log wildlife sightings in real-time, upload images, and contribute to an interactive map. The app makes it easy for users to share their experiences and discover wildlife activity in the UCF area.&lt;/p&gt;&#xA;&lt;p&gt;As wildlife lovers, we wanted to build a fun platform where people can easily share their wildlife sightings and connect with fellow nature enthusiasts. Our goal is to make it simple for everyone to enjoy and appreciate the outdoors while sharing those exciting moments with a community that cares about wildlife.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AmplifyHER</title>
-      <link>http://localhost:1313/posts/amplifyher/</link>
+      <link>http://amanihas.github.io/posts/amplifyher/</link>
       <pubDate>Sun, 04 Aug 2024 15:31:52 -0400</pubDate>
-      <guid>http://localhost:1313/posts/amplifyher/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/AmplifyHER-pic.jpg&#34; alt=&#34;AmplifyHER Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.&lt;/p&gt;&#xA;&lt;p&gt;Our website prompts the user to pick an option from a list of preselected genres to give them a new playlist. It filters through a gender database that provides us with information about artists gender identity and made it so that only female, non-binary, and GNC individuals would be added to the generated playlists.&lt;/p&gt;&#xA;&lt;p&gt;We utilized a combination of JavaScript, HTML/CSS, and Python in order to create our website. First we used JavaScript and HTML/CSS in order to create the foundation of our website and create a uniformed theme throughout our project. We then utilized python and Spotify&amp;rsquo;s developer API along with Chartmetric&amp;rsquo;s Pronoun and Gender dataset in order generate a playlist that comprised of songs by female, non-binary, and GNC individuals.&lt;/p&gt;</description>
+      <guid>http://amanihas.github.io/posts/amplifyher/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://amanihas.github.io/img/AmplifyHER-pic.jpg&#34; alt=&#34;AmplifyHER Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.&lt;/p&gt;&#xA;&lt;p&gt;Our website prompts the user to pick an option from a list of preselected genres to give them a new playlist. It filters through a gender database that provides us with information about artists gender identity and made it so that only female, non-binary, and GNC individuals would be added to the generated playlists.&lt;/p&gt;&#xA;&lt;p&gt;We utilized a combination of JavaScript, HTML/CSS, and Python in order to create our website. First we used JavaScript and HTML/CSS in order to create the foundation of our website and create a uniformed theme throughout our project. We then utilized python and Spotify&amp;rsquo;s developer API along with Chartmetric&amp;rsquo;s Pronoun and Gender dataset in order generate a playlist that comprised of songs by female, non-binary, and GNC individuals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fire Boy and Water Girl</title>
-      <link>http://localhost:1313/posts/fireboyandwatergirl/</link>
+      <link>http://amanihas.github.io/posts/fireboyandwatergirl/</link>
       <pubDate>Wed, 08 May 2024 15:31:52 -0400</pubDate>
-      <guid>http://localhost:1313/posts/fireboyandwatergirl/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/img/FBaWG-pic.jpeg&#34; alt=&#34;Our Game Design&#34; class=&#34;FBaWG-img&#34; /&gt;&#xD;&#xA;&lt;p&gt;In the club I&amp;rsquo;m a part of, Girls Who Code, I worked together with a team of girls in order to create our own virsion of the popular game, Water Boy and Fire Girl.&lt;/p&gt;&#xA;&lt;p&gt;We utilized HTML to ensure seamless display on browsers, JavaScript for the game&amp;rsquo;s core code and functionalities, and Tiled for crafting and designing the levels.&lt;/p&gt;&#xA;&lt;p&gt;We met up once a week during the Spring 2024 semester and worjed together to create the game. Each member designed one of the level for the game using Tiled, an open source level editor. The level picured above is the one I created.&lt;/p&gt;</description>
+      <guid>http://amanihas.github.io/posts/fireboyandwatergirl/</guid>
+      <description>&lt;img src=&#34;http://amanihas.github.io/img/FBaWG-pic.jpeg&#34; alt=&#34;Our Game Design&#34; class=&#34;FBaWG-img&#34; /&gt;&#xD;&#xA;&lt;p&gt;In the club I&amp;rsquo;m a part of, Girls Who Code, I worked together with a team of girls in order to create our own virsion of the popular game, Water Boy and Fire Girl.&lt;/p&gt;&#xA;&lt;p&gt;We utilized HTML to ensure seamless display on browsers, JavaScript for the game&amp;rsquo;s core code and functionalities, and Tiled for crafting and designing the levels.&lt;/p&gt;&#xA;&lt;p&gt;We met up once a week during the Spring 2024 semester and worjed together to create the game. Each member designed one of the level for the game using Tiled, an open source level editor. The level picured above is the one I created.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
