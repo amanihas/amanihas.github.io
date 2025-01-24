@@ -2,42 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>amanihas</title>
-    <link>http://amanihas.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on amanihas</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Oct 2024 15:31:52 -0400</lastBuildDate><atom:link href="http://amanihas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 15:31:52 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knights&#39; Wildlife Tracker</title>
-      <link>http://amanihas.github.io/posts/knightswildlifetracker/</link>
+      <link>http://localhost:1313/posts/knightswildlifetracker/</link>
       <pubDate>Sun, 13 Oct 2024 15:31:52 -0400</pubDate>
-      
-      <guid>http://amanihas.github.io/posts/knightswildlifetracker/</guid>
-      <description>In October, I participated in UCF&amp;rsquo;s Knight Hacks VII. I worked with a partner to create a website, Knights&#39; Wildlife Tracker, that allows users to log wildlife sightings in real-time, upload images, and contribute to an interactive map. The app makes it easy for users to share their experiences and discover wildlife activity in the UCF area.
-As wildlife lovers, we wanted to build a fun platform where people can easily share their wildlife sightings and connect with fellow nature enthusiasts.</description>
+      <guid>http://localhost:1313/posts/knightswildlifetracker/</guid>
+      <description>In October, I participated in UCF&amp;rsquo;s Knight Hacks VII. I worked with a partner to create a website, Knights&amp;rsquo; Wildlife Tracker, that allows users to log wildlife sightings in real-time, upload images, and contribute to an interactive map. The app makes it easy for users to share their experiences and discover wildlife activity in the UCF area.&#xA;As wildlife lovers, we wanted to build a fun platform where people can easily share their wildlife sightings and connect with fellow nature enthusiasts.</description>
     </item>
-    
     <item>
       <title>AmplifyHER</title>
-      <link>http://amanihas.github.io/posts/amplifyher/</link>
+      <link>http://localhost:1313/posts/amplifyher/</link>
       <pubDate>Sun, 04 Aug 2024 15:31:52 -0400</pubDate>
-      
-      <guid>http://amanihas.github.io/posts/amplifyher/</guid>
-      <description>I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.
-Our website prompts the user to pick an option from a list of preselected genres to give them a new playlist. It filters through a gender database that provides us with information about artists gender identity and made it so that only female, non-binary, and GNC individuals would be added to the generated playlists.
-We utilized a combination of JavaScript, HTML/CSS, and Python in order to create our website.</description>
+      <guid>http://localhost:1313/posts/amplifyher/</guid>
+      <description>I created AmplifyHER in UF&amp;rsquo;s 2024 WingHacks along with my partner Karlina Maya.&#xA;Our website prompts the user to pick an option from a list of preselected genres to give them a new playlist. It filters through a gender database that provides us with information about artists gender identity and made it so that only female, non-binary, and GNC individuals would be added to the generated playlists.&#xA;We utilized a combination of JavaScript, HTML/CSS, and Python in order to create our website.</description>
     </item>
-    
     <item>
       <title>Fire Boy and Water Girl</title>
-      <link>http://amanihas.github.io/posts/fireboyandwatergirl/</link>
+      <link>http://localhost:1313/posts/fireboyandwatergirl/</link>
       <pubDate>Wed, 08 May 2024 15:31:52 -0400</pubDate>
-      
-      <guid>http://amanihas.github.io/posts/fireboyandwatergirl/</guid>
-      <description>In the club I&amp;rsquo;m a part of, Girls Who Code, I worked together with a team of girls in order to create our own virsion of the popular game, Water Boy and Fire Girl.
-We utilized HTML to ensure seamless display on browsers, JavaScript for the game&amp;rsquo;s core code and functionalities, and Tiled for crafting and designing the levels.
-We met up once a week during the Spring 2024 semester and worjed together to create the game.</description>
+      <guid>http://localhost:1313/posts/fireboyandwatergirl/</guid>
+      <description>In the club I&amp;rsquo;m a part of, Girls Who Code, I worked together with a team of girls in order to create our own virsion of the popular game, Water Boy and Fire Girl.&#xA;We utilized HTML to ensure seamless display on browsers, JavaScript for the game&amp;rsquo;s core code and functionalities, and Tiled for crafting and designing the levels.&#xA;We met up once a week during the Spring 2024 semester and worjed together to create the game.</description>
     </item>
-    
   </channel>
 </rss>
